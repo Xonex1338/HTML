@@ -1,0 +1,23 @@
+.Gray{
+color: gray;	
+}
+.cats{
+color:pink;
+text-shadow: black;
+background: green;
+font-style: italic;
+font-size: 54px;
+}
+.order{
+color: green;
+font-style: oblique;
+}
+.read{
+color: gray;
+font-size: 10px;
+}
+.redd{
+color: darkred;
+}
+
+
